@@ -1,0 +1,12 @@
+hmtl[dir="ltr"].myAppDemoWT.myCustonButton.sapMBtn{
+    margin-right: 0.125rem
+}
+
+hmtl[dir="ltr"].myAppDemoWT.myCustonButton.sapMBtn{
+    margin-left: 0.125rem
+}
+
+.myAppDemoWT.myCustonText{
+    display: inline-block;
+    font-weight: bold;
+}
