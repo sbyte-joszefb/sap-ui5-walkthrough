@@ -1,4 +1,5 @@
 <mvc:View
+    controllerName="sap.ui.demo.walkthrough.controller.Detail"
     xmlns="sap.m"
     xmlns:mvc="sap.ui.core.mvc"
 >
@@ -6,7 +7,8 @@
         title="{i18n>detailPageTitle}"
     >
         <ObjectHeader
-            title="Invoice"
+            intro="{invoice>ShipperName}"
+            title="{invoice>ProductName}"
         />
     </Page>
 </mvc:View>
