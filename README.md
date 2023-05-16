@@ -1,7 +1,6 @@
 ![This is an image](https://camo.githubusercontent.com/79cc251c5c489cb14c432e4861bec5c9e679e925c975f3625ab1e64984bf90ff/68747470733a2f2f6f70656e7569352e6f72672f696d616765732f4f70656e5549355f6e65775f6269675f736964652e706e67)
 # Fiori-Freestyle
 
-Projeto para fins de estudo, consistindo uma tela de master detail que contem uma lista de produtos em um estoque e seus respectivos movimentos.
 
 ##Para se configurar o projeto
 
