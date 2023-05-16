@@ -14,7 +14,7 @@ ui5 --help
 ```
 Comando e help do UI5 e também pode lhe indicar se o UI5 foi instalado ao ser executado.
 
-Logo em sehuida execute no terminal:
+Logo em seguida execute no terminal:
 ```
 npm init --yes
 ```
