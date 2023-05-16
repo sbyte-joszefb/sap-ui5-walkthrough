@@ -2,7 +2,7 @@
 # Fiori-Freestyle
 
 
-##Para se configurar o projeto
+**Para se configurar o projeto**
 
 Primeiro no console rode o comando:
 ```
